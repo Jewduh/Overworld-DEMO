@@ -1,5 +1,3 @@
-This was my first ever game created outside of college courses
-
 # Overworld RPG 
 
 A text-based RPG adventure game implemented in Java featuring dynamic combat, character customization, and an immersive storyline.
